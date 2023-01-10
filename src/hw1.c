@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
-#include "genann.h"
+#include "../inc/genann.h"
 
 int summondata() {
     int data;
