@@ -23,8 +23,7 @@
  *
  */
 
-#include "genann.h"
-
+#include "../inc/genann.h"
 #include <assert.h>
 #include <errno.h>
 #include <math.h>
