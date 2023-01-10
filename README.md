@@ -1,11 +1,4 @@
 
-## Compile & Run
-
-# Compile
-cd src/
-```
-gcc -o main ../src/hw1.c ../src/genann.c -lm
-```
 # Run
 ```
 ./main
