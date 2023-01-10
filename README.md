@@ -7,6 +7,7 @@ cd src/
 gcc -o main hw1.c genann.c
 ```
 # Run
+```
 ./main
 ```
 
