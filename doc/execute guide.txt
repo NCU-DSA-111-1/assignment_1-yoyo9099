@@ -1,0 +1,4 @@
+Enter the following command in the terminal to execute the program(make sure your directory is in /bin):
+```
+./main
+```

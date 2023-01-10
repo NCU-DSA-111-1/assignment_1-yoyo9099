@@ -1,0 +1,5 @@
+Enter the following command in the terminal to compile all source code and header files(make sure your directory is in /bin):
+
+```
+gcc -o main ../src/hw1.c ../src/genann.c -lm
+```
