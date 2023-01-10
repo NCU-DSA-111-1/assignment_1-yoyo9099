@@ -1,17 +1,17 @@
 
 ## Compile & Run
 
-```sh
 # Compile
 cd src/
+```
 gcc -o main hw1.c genann.c
+```
 # Run
 ./main
 ```
 
 ##useage
 
-```C
 1.input the number of bit
 2.input how many times want to train
 3.input how many problems want to test(every problem will be unique, so can't more than tatal 
