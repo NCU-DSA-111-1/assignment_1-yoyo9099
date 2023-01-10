@@ -4,7 +4,7 @@
 # Compile
 cd src/
 ```
-gcc -o main hw1.c genann.c
+gcc -o main ../src/hw1.c ../src/genann.c
 ```
 # Run
 ```
